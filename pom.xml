@@ -37,7 +37,7 @@
 					<archive>
 					
 						<manifest>
-							<mainClass>core.Selenium</mainClass>
+							<mainClass>core.DN_1</mainClass>
 						</manifest>
 						
 					</archive>
